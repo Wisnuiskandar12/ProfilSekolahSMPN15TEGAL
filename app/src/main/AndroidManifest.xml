@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahSMPN15TEGAL">
-        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".TugasActivity"></activity>
+        <activity android:name=".AbsensiActivity" />
+        <activity android:name=".PrestasiActivity" />
+        <activity android:name=".EkstraActivity" />
+        <activity android:name=".SejarahActivity" />
+        <activity android:name=".ProfilActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
