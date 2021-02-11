@@ -36,6 +36,5 @@ public class MainActivity extends AppCompatActivity {
     public void tugas(View view) {
         Intent intent = new Intent(MainActivity.this, TugasActivity.class);
         startActivity(intent);
-
     }
     }
