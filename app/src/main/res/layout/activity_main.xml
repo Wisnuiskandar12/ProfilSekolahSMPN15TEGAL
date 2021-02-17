@@ -77,14 +77,14 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginTop="15dp"
-                    android:src="@drawable/sejarah"
+                    android:src="@drawable/info"
                     android:background="@color/white"
                     android:onClick="sejarah">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Sejarah"
+                    android:text="Informasi"
                     android:textSize="24dp"
                     android:textStyle="bold"
                     android:textColor="@color/black">
