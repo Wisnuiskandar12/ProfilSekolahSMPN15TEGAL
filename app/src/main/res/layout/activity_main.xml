@@ -77,14 +77,14 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginTop="15dp"
-                    android:src="@drawable/info"
+                    android:src="@drawable/gallery"
                     android:background="@color/white"
-                    android:onClick="sejarah">
+                    android:onClick="gallery">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Informasi"
+                    android:text="Galeri"
                     android:textSize="24dp"
                     android:textStyle="bold"
                     android:textColor="@color/black">
@@ -132,14 +132,14 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginTop="15dp"
-                    android:src="@drawable/absen"
+                    android:src="@drawable/fasilitas"
                     android:background="@color/white"
-                    android:onClick="absensi">
+                    android:onClick="fasilitas">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Absensi"
+                    android:text="Fasilitas"
                     android:textSize="24dp"
                     android:textStyle="bold"
                     android:textColor="@color/black">
@@ -148,14 +148,14 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginTop="15dp"
-                    android:src="@drawable/tugas"
+                    android:src="@drawable/teacher"
                     android:background="@color/white"
-                    android:onClick="tugas">
+                    android:onClick="guru">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Tugas"
+                    android:text="Guru"
                     android:textSize="24dp"
                     android:textStyle="bold"
                     android:textColor="@color/black">

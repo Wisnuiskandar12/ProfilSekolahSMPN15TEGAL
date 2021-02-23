@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, ProfilActivity.class);
         startActivity(intent);
     }
-    public void sejarah(View view){
-        Intent intent=new Intent(MainActivity.this, SejarahActivity.class);
+    public void galeri(View view){
+        Intent intent=new Intent(MainActivity.this,GalleryActivity.class);
         startActivity(intent);
     }
     public void ekstra(View view){
@@ -29,12 +29,15 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, PrestasiActivity.class);
         startActivity(intent);
     }
-    public void absensi(View view){
-        Intent intent=new Intent(MainActivity.this, AbsensiActivity.class);
+    public void fasilitas(View view){
+        Intent intent=new Intent(MainActivity.this,FasilitasActivity.class);
         startActivity(intent);
     }
-    public void tugas(View view) {
-        Intent intent = new Intent(MainActivity.this, TugasActivity.class);
+
+    public void guru(View view){
+        Intent intent=new Intent(MainActivity.this,GuruActivity.class);
         startActivity(intent);
     }
+
+
     }
