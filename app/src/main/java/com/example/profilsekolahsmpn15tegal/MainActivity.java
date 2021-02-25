@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, ProfilActivity.class);
         startActivity(intent);
     }
-    public void galeri(View view){
+    public void gallery(View view){
         Intent intent=new Intent(MainActivity.this,GalleryActivity.class);
         startActivity(intent);
     }
@@ -38,6 +38,4 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this,GuruActivity.class);
         startActivity(intent);
     }
-
-
     }
