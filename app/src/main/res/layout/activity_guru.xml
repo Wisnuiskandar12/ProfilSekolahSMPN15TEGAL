@@ -1787,7 +1787,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Dita Akmaliyah,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -1797,9 +1797,183 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina Teater"
                     android:textColor="#F44336"
                     android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="72dp"
+                    android:text="Mapel B.Indonesia"
+                    android:textColor="#3F51B5"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/teacher" />
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="235dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:text="Sucipto,S.Pd.I"
+                    android:textColor="#000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="55dp"
+                    android:text="Pembina ROHIS/BTQ"
+                    android:textColor="#F44336"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="72dp"
+                    android:text="Mapel PAI"
+                    android:textColor="#3F51B5"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/teacher" />
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="235dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:text="Siska Ula Noviani,S.Pd"
+                    android:textColor="#000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="55dp"
+                    android:text="Penata mading Dan Jurnalistik"
+                    android:textColor="#F44336"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="72dp"
+                    android:text="Mapel B.Indonesia"
+                    android:textColor="#3F51B5"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/teacher" />
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="235dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:text="Tesar Arvit Januariski,S.Pd"
+                    android:textColor="#000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="55dp"
+                    android:text="Pembina PMR/UKS/PIK-R/OSN IPA"
+                    android:textColor="#F44336"
+                    android:textSize="15sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -1845,7 +2019,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Dwi Ratna Hanggaren,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -1855,7 +2029,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina Teater"
                     android:textColor="#F44336"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -1865,7 +2039,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
+                    android:text="Mapel B.Indonesia/PKN"
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -1903,7 +2077,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Ahmad Adnan Harianto,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -1913,7 +2087,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina Olahraga/Upacara"
                     android:textColor="#F44336"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -1923,7 +2097,65 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
+                    android:text="Mapel Matematika/PenjasOrkes"
+                    android:textColor="#3F51B5"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="10dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/teacher" />
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="235dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:text="Moh.Farhan,S.Pd"
+                    android:textColor="#000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="55dp"
+                    android:text="Pembina Seni Musik/OSN MTK"
+                    android:textColor="#F44336"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="72dp"
+                    android:text="Mapel Prakarya/PLH"
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -1961,7 +2193,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Shara Dwi Avisah,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -1971,9 +2203,9 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina Seni Karawitan/Macapat"
                     android:textColor="#F44336"
-                    android:textSize="17sp"
+                    android:textSize="15sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -1981,7 +2213,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
+                    android:text="Mapel B.Jawa/Prakarya"
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -2019,7 +2251,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Teguh Hadiwijaya,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -2029,7 +2261,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina Mading/Jurnalistik"
                     android:textColor="#F44336"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -2039,7 +2271,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
+                    android:text="Mapel B.Indonesia/PLH"
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -2077,7 +2309,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
+                    android:text="Hapsari Putri S,S.Pd"
                     android:textColor="#000"
                     android:textSize="20dp"
                     android:textStyle="bold" />
@@ -2087,7 +2319,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="55dp"
-                    android:text="STAF TU"
+                    android:text="Pembina PMR/UKS/PIK-R"
                     android:textColor="#F44336"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -2097,239 +2329,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
-                    android:textColor="#3F51B5"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="135dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="10dp"
-                app:cardCornerRadius="10dp">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
-
-            </androidx.cardview.widget.CardView>
-
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
-                    android:textColor="#000"
-                    android:textSize="20dp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="55dp"
-                    android:text="STAF TU"
-                    android:textColor="#F44336"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
-                    android:textColor="#3F51B5"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="135dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="10dp"
-                app:cardCornerRadius="10dp">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
-
-            </androidx.cardview.widget.CardView>
-
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
-                    android:textColor="#000"
-                    android:textSize="20dp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="55dp"
-                    android:text="STAF TU"
-                    android:textColor="#F44336"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
-                    android:textColor="#3F51B5"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="135dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="10dp"
-                app:cardCornerRadius="10dp">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
-
-            </androidx.cardview.widget.CardView>
-
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
-                    android:textColor="#000"
-                    android:textSize="20dp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="55dp"
-                    android:text="STAF TU"
-                    android:textColor="#F44336"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
-                    android:textColor="#3F51B5"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="135dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="10dp"
-                app:cardCornerRadius="10dp">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
-
-            </androidx.cardview.widget.CardView>
-
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="30dp"
-                    android:text="SARIP, s,pd"
-                    android:textColor="#000"
-                    android:textSize="20dp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="55dp"
-                    android:text="STAF TU"
-                    android:textColor="#F44336"
-                    android:textSize="17sp"
-                    android:textStyle="bold" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="72dp"
-                    android:text="Mapel IPA"
+                    android:text="Mapel B.Indonesia/Prakary"
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
