@@ -68,7 +68,6 @@
                     android:textSize="17sp"
                     android:textStyle="bold" />
 
-
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -85,7 +84,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/sidikpurnama" />
 
             </androidx.cardview.widget.CardView>
 
@@ -96,6 +95,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
+
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -126,7 +126,6 @@
                     android:textColor="#3F51B5"
                     android:textSize="17sp"
                     android:textStyle="bold" />
-
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -143,7 +142,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/dwiratih3" />
 
             </androidx.cardview.widget.CardView>
 
@@ -209,6 +208,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="235dp"
                 android:layout_height="125dp"
+                android:layout_row="0"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
@@ -259,7 +259,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/mudrikah" />
 
             </androidx.cardview.widget.CardView>
 
