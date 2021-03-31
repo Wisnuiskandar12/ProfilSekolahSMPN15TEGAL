@@ -112,18 +112,19 @@
                 android:orientation="vertical"
                 android:layout_height="match_parent"
                 android:gravity="center_horizontal">
+
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginTop="25dp"
-                    android:src="@drawable/prestasi"
                     android:background="@color/white"
-                    android:onClick="prestasi">
-                </ImageView>
+                    android:onClick="prestasi"
+                    android:src="@drawable/berita"></ImageView>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Prestasi"
+                    android:text="Berita"
                     android:textSize="24dp"
                     android:textStyle="bold"
                     android:textColor="@color/black">
