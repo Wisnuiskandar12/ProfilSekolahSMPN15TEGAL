@@ -278,7 +278,7 @@
                     android:layout_marginTop="30dp"
                     android:text="Siti Mudrikah, S.Pd S.Kom"
                     android:textColor="#000"
-                    android:textSize="15dp"
+                    android:textSize="17dp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -317,7 +317,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/setyorini" />
 
             </androidx.cardview.widget.CardView>
 
@@ -434,7 +434,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/ediprayitno" />
 
             </androidx.cardview.widget.CardView>
 
@@ -491,7 +491,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/miko" />
 
             </androidx.cardview.widget.CardView>
 
@@ -549,7 +549,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/idamulyaningsih" />
 
             </androidx.cardview.widget.CardView>
 
@@ -666,7 +666,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/untung" />
 
             </androidx.cardview.widget.CardView>
 
@@ -724,7 +724,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/budikristanto" />
 
             </androidx.cardview.widget.CardView>
 
@@ -840,7 +840,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/muidah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -898,7 +898,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/rianitagumay" />
 
             </androidx.cardview.widget.CardView>
 
@@ -956,7 +956,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/hayatibudi" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1014,7 +1014,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/ekakhayatinufus" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1072,7 +1072,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/zaenalmutaqin" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1130,7 +1130,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/alwiyah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1188,7 +1188,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/rinihandajani" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1246,7 +1246,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/sriirawati" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1304,7 +1304,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/lilik" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1362,7 +1362,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/titirusilowati" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1420,7 +1420,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/tasripah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1478,7 +1478,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/taufanarifnursyamsu" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1537,7 +1537,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/sucinovelianingrum" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1595,7 +1595,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/sitifatimah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1654,7 +1654,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/viapandesie" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1712,7 +1712,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/endangpratiwi" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1770,7 +1770,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/dita" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1828,7 +1828,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/cipto" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1886,7 +1886,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/siska" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1944,7 +1944,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/tesar" />
 
             </androidx.cardview.widget.CardView>
 
@@ -1963,7 +1963,7 @@
                     android:layout_marginTop="30dp"
                     android:text="Tesar Arvit Januariski,S.Pd"
                     android:textColor="#000"
-                    android:textSize="20dp"
+                    android:textSize="17dp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -2021,7 +2021,7 @@
                     android:layout_marginTop="30dp"
                     android:text="Dwi Ratna Hanggaren,S.Pd"
                     android:textColor="#000"
-                    android:textSize="20dp"
+                    android:textSize="17dp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -2060,7 +2060,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/ahmadadnanharyanto" />
 
             </androidx.cardview.widget.CardView>
 
@@ -2079,7 +2079,7 @@
                     android:layout_marginTop="30dp"
                     android:text="Ahmad Adnan Harianto,S.Pd"
                     android:textColor="#000"
-                    android:textSize="20dp"
+                    android:textSize="17dp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -2118,7 +2118,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/mohfarhan" />
 
             </androidx.cardview.widget.CardView>
 
@@ -2147,7 +2147,7 @@
                     android:layout_marginTop="55dp"
                     android:text="Pembina Seni Musik/OSN MTK"
                     android:textColor="#F44336"
-                    android:textSize="17sp"
+                    android:textSize="15sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -2234,7 +2234,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/teguh" />
 
             </androidx.cardview.widget.CardView>
 
@@ -2292,7 +2292,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/hapsariputri" />
 
             </androidx.cardview.widget.CardView>
 
