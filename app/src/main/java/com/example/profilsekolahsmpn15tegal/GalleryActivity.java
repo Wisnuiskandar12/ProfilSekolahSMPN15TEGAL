@@ -33,5 +33,12 @@ public class GalleryActivity extends AppCompatActivity {
         Intent intent=new Intent(GalleryActivity.this, Album5Activity.class);
         startActivity(intent);
     }
-
+    public void album6(View view){
+        Intent intent=new Intent(GalleryActivity.this, Album6Activity.class);
+        startActivity(intent);
+    }
+    public void album7(View view){
+        Intent intent=new Intent(GalleryActivity.this, Album7Activity.class);
+        startActivity(intent);
+    }
 }

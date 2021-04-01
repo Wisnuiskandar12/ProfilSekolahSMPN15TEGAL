@@ -118,7 +118,7 @@
                     android:layout_height="100dp"
                     android:layout_marginTop="25dp"
                     android:background="@color/white"
-                    android:onClick="prestasi"
+                    android:onClick="berita"
                     android:src="@drawable/berita"></ImageView>
 
                 <TextView

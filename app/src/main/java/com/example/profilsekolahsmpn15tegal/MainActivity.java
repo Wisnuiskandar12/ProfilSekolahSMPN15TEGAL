@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, EkstraActivity.class);
         startActivity(intent);
     }
-    public void prestasi(View view){
-        Intent intent=new Intent(MainActivity.this, PrestasiActivity.class);
+    public void berita(View view){
+        Intent intent=new Intent(MainActivity.this, BeritaActivity.class);
         startActivity(intent);
     }
     public void fasilitas(View view){
@@ -38,4 +38,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this,GuruActivity.class);
         startActivity(intent);
     }
+
     }

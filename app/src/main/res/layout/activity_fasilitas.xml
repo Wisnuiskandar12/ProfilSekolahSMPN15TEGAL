@@ -103,7 +103,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/labkom" />
+                    android:src="@drawable/labkom15" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -160,7 +160,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/ipa" />
+                    android:src="@drawable/labipa" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -216,7 +216,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/muso" />
+                    android:src="@drawable/mushola15" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView

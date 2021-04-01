@@ -28,15 +28,16 @@
                 android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"
-                android:backgroundTint="#0066D4"
+                android:backgroundTint="#FFB600"
                 app:cardCornerRadius="10dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="GALERI SMPN 15 TEGAL "
-                    android:textColor="#FFF"
+                    android:text="GALERI"
+                    android:textSize="20dp"
+                    android:textColor="#000000"
                     android:textStyle="bold" />
 
 
@@ -45,9 +46,11 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="380dp"
                 android:layout_height="125dp"
+                android:layout_row="0"
                 android:layout_gravity="center"
                 android:layout_marginTop="15dp"
                 android:onClick="album1"
+                android:backgroundTint="#00FFDC"
                 app:cardCornerRadius="10dp">
 
 
@@ -55,9 +58,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:textSize="20dp"
-                    android:textStyle="bold"
-                    android:text="KEGIATAN PENYERAHAN PIALA" />
+                    android:text="KARNAVAL"
+                    android:textColor="#000000"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
 
             </androidx.cardview.widget.CardView>
 
@@ -67,15 +71,17 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="15dp"
                 android:onClick="album2"
+                android:backgroundTint="#00FFDC"
                 app:cardCornerRadius="10dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:textSize="25dp"
-                    android:textStyle="bold"
-                    android:text="UPACARA BENDERA" />
+                    android:text="UPACARA BENDERA"
+                    android:textSize="27dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold" />
 
             </androidx.cardview.widget.CardView>
 
@@ -85,6 +91,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="15dp"
                 android:onClick="album3"
+                android:backgroundTint="#00FFDC"
                 app:cardCornerRadius="10dp">
 
 
@@ -92,9 +99,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:textSize="25dp"
-                    android:textStyle="bold"
-                    android:text="PERJUMSAMI" />
+                    android:text="PERJUMSAMI"
+                    android:textSize="27dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold" />
 
             </androidx.cardview.widget.CardView>
 
@@ -104,6 +112,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="15dp"
                 android:onClick="album4"
+                android:backgroundTint="#00FFDC"
                 app:cardCornerRadius="10dp">
 
 
@@ -111,9 +120,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
+                    android:text="EKSTRA BELA DIRI"
                     android:textSize="25dp"
-                    android:textStyle="bold"
-                    android:text="PENCAK SILAT" />
+                    android:textColor="#000000"
+                    android:textStyle="bold" />
 
             </androidx.cardview.widget.CardView>
 
@@ -123,6 +133,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="15dp"
                 android:onClick="album5"
+                android:backgroundTint="#00FFDC"
                 app:cardCornerRadius="10dp">
 
 
@@ -130,9 +141,54 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:textSize="25dp"
-                    android:textStyle="bold"
-                    android:text="PERAYAAN HUT RI" />
+                    android:text="PERAYAAN HUT RI"
+                    android:textSize="27dp"
+                    android:textColor="#000000"
+
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="380dp"
+                android:layout_height="125dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:onClick="album6"
+                android:backgroundTint="#00FFDC"
+                app:cardCornerRadius="10dp">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KEAGAMAAN"
+                    android:textSize="27dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="380dp"
+                android:layout_height="125dp"
+                android:layout_row="0"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="#00FFDC"
+                android:onClick="album7"
+                app:cardCornerRadius="10dp">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="KARYA WISATA"
+                    android:textSize="27dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold" />
 
             </androidx.cardview.widget.CardView>
 

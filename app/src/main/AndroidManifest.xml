@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahSMPN15TEGAL">
-        <activity android:name=".Album5Activity"></activity>
+        <activity android:name=".Album7Activity"></activity>
+        <activity android:name=".Album6Activity" />
+        <activity android:name=".Album5Activity" />
         <activity android:name=".Album4Activity" />
         <activity android:name=".Album3Activity" />
         <activity android:name=".Album2Activity" />
@@ -17,7 +19,7 @@
         <activity android:name=".GalleryActivity" />
         <activity android:name=".FasilitasActivity" />
         <activity android:name=".GuruActivity" />
-        <activity android:name=".PrestasiActivity" />
+        <activity android:name=".BeritaActivity" />
         <activity android:name=".EkstraActivity" />
         <activity android:name=".ProfilActivity" />
         <activity android:name=".SplashScreen">

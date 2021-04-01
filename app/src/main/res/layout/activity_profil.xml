@@ -85,7 +85,7 @@
                     android:layout_marginLeft="12dp"
                     android:layout_marginTop="12dp"
                     android:layout_marginRight="12dp"
-                    android:src="@drawable/guru" />
+                    android:src="@drawable/logo" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -270,6 +270,7 @@ Wassalamualaikum wr. wb."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="190dp"
                     android:layout_marginRight="12dp"
+                    android:autoLink="email"
                     android:text="Email : smpn15tegal@gmail.com "
                     android:textColor="#000"
                     android:textSize="12sp"
@@ -292,7 +293,8 @@ Wassalamualaikum wr. wb."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="230dp"
                     android:layout_marginRight="12dp"
-                    android:text="Situs : https://smpn15kotategal.sch.id/  "
+                    android:autoLink="web"
+                    android:text="Situs : https://smpn15kotategal.sch.id  "
                     android:textColor="#000"
                     android:textSize="12sp"
                     android:textStyle="bold" />
