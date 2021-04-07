@@ -36,7 +36,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/fitriah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -375,7 +375,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/subandiah" />
 
             </androidx.cardview.widget.CardView>
 
@@ -2002,7 +2002,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/teacher" />
+                    android:src="@drawable/reni" />
 
             </androidx.cardview.widget.CardView>
 

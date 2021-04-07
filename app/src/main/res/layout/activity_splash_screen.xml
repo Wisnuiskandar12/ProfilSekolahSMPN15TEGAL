@@ -6,15 +6,56 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SplashScreen"
-    android:id="@+id/splash_screen">
+    android:orientation="vertical"
+    android:gravity="center">
 
-    <ImageView
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:backgroundTint="#FFFFFF"
-        android:scaleType="centerCrop"
-        android:src="@drawable/logo"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="219dp"
+            android:layout_height="170dp"
+            android:src="@drawable/logo">
+        </ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15.00dp"
+            android:gravity="center"
+            android:text="Dibuat oleh :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.00dp"
+            android:gravity="center"
+            android:text="RPL SMK YPT Kota Tegal"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="Kelompok 9"
+            android:textStyle="bold"/>
+
+
+
+        <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="300dp"
+             android:gravity="center"
+            android:fontFamily="casual"
+             android:text="©Copyrigh 2021"/>
+    </LinearLayout>
+
 
 </RelativeLayout>

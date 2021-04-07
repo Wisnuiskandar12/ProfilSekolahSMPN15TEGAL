@@ -7,49 +7,33 @@
     tools:context=".MainActivity">
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="240dp"
-        android:background="#142FC5"
+        android:layout_height="250dp"
+        android:background="@drawable/smp"
         >
     </ImageView>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dp"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:orientation="vertical"
-            android:gravity="center">
-            <ImageView
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:src="@drawable/logo"
-                >
-            </ImageView>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="SMP N 15 TEGAL"
-                android:textStyle="bold"
-                android:textColor="@color/white"
-                android:textSize="40dp">
-            </TextView>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Bersama Kita Bangun Bangsa"
-                android:textStyle="bold"
-                android:textColor="@color/white"
-                android:textSize="20dp">
-            </TextView>
+            android:gravity="center"
+            android:orientation="vertical">
+
         </LinearLayout>
+
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="2"
             android:orientation="horizontal"
-            android:background="@color/white">
+            android:background="#FFFFFF">
+
             <LinearLayout
                 android:layout_weight="1"
                 android:layout_width="0dp"
@@ -119,7 +103,8 @@
                     android:layout_marginTop="25dp"
                     android:background="@color/white"
                     android:onClick="berita"
-                    android:src="@drawable/berita"></ImageView>
+                    android:src="@drawable/berita">
+                </ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
