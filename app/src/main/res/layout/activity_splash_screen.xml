@@ -18,17 +18,16 @@
         <ImageView
             android:layout_width="219dp"
             android:layout_height="170dp"
-            android:src="@drawable/logo">
-        </ImageView>
+            android:src="@drawable/logo"></ImageView>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15.00dp"
+            android:fontFamily="monospace"
             android:gravity="center"
             android:text="Dibuat oleh :"
-            android:fontFamily="monospace"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -36,7 +35,7 @@
             android:layout_marginTop="5.00dp"
             android:gravity="center"
             android:text="RPL SMK YPT Kota Tegal"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -44,17 +43,24 @@
             android:fontFamily="monospace"
             android:gravity="center"
             android:text="Kelompok 9"
-            android:textStyle="bold"/>
-
+            android:textStyle="bold" />
 
 
         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:layout_marginTop="300dp"
-             android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
             android:fontFamily="casual"
-             android:text="©Copyrigh 2021"/>
+            android:gravity="center"
+            android:text="©𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 𝟮𝟬𝟮𝟭" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="ᴡɪsɴᴜ // ᴀᴍʙᴏɴ // ᴅᴀᴠɪᴅ" />
     </LinearLayout>
 
 
